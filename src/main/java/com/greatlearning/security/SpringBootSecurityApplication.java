@@ -17,7 +17,7 @@ public class SpringBootSecurityApplication extends SpringBootServletInitializer 
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootSecurityApplication.class, args);
-		log.info("Its Working...!");
+		log.info("Its Working...! and test polling");
 	}
 
 }
